@@ -6,6 +6,8 @@ A simple business Card with my email, future job title and name.
 
 Wayne Myrie Jr
 
+# View project here: https://waynebusinesscard.netlify.app/ 
+
 # Tech Stack
 
 ```
