@@ -1,6 +1,12 @@
-# co6664e0f9f6af15eceac1601
+# Wayne Myrie Jr Business Card
 
-Quick start:
+A simple business Card with my email, future job title and name.
+
+# Author
+
+Wayne Myrie Jr
+
+# Tech Stack
 
 ```
 $ npm install
